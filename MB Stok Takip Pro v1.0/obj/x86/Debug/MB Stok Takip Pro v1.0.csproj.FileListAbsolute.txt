@@ -1,0 +1,22 @@
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\bin\Debug\MB Stok Takip Pro v1.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\bin\Debug\MB Stok Takip Pro v1.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB_Stok_Takip_Pro_v1._0.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.csproj.GenerateResource.Cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\bin\Debug\StokTakip.accdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\bin\Debug\MB Stok Takip Pro v1.0.exe.config
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB_Stok_Takip_Pro_v1._0.Giriş.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB_Stok_Takip_Pro_v1._0.StokTakip.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\4 Yazılanlar\MB Stok Takip Pro v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\bin\Debug\MB Stok Takip Pro v1.0.exe.config
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\bin\Debug\StokTakip.accdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\bin\Debug\MB Stok Takip Pro v1.0.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\bin\Debug\MB Stok Takip Pro v1.0.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB_Stok_Takip_Pro_v1._0.Giriş.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB_Stok_Takip_Pro_v1._0.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB_Stok_Takip_Pro_v1._0.StokTakip.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\52 Stok Takip Pro Modül v1.0\MB Stok Takip Pro v1.0\obj\x86\Debug\MB Stok Takip Pro v1.0.csproj.GenerateResource.Cache
